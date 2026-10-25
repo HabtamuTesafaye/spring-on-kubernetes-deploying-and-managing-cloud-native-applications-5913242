@@ -1,8 +1,8 @@
 {
-  "hostRequirements": {
-    "cpus": 8,
-    "memory": "32gb"
-  },
+   "hostRequirements": {
+     "cpus": 4,
+     "memory": "16gb"
+   },
   "overrideCommand": false,
   "features": {
     "ghcr.io/devcontainers-contrib/features/kind:1": {}
